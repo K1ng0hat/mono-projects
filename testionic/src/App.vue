@@ -72,7 +72,7 @@ const appPages = [
     mdIcon: mailSharp,
   },
   {
-    title: 'mi papa es lindk',
+    title: 'no tengo idea',
     url: '/folder/Outbox',
     iosIcon: paperPlaneOutline,
     mdIcon: paperPlaneSharp,
